@@ -1,8 +1,8 @@
 # MovieHigh
 this is movie review website it also have a bot which gives information about different kind of movie
 
-##Future Ready Talent Project - MovieHigh by Mr.Amarjit
-##Main Section = It contain movies with official trailer by clicking on watch
+## Future Ready Talent Project - MovieHigh by Mr.Amarjit
+## Main Section = It contain movies with official trailer by clicking on watch
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/92248907/179620121-189e91d5-a37a-46d7-bd8a-2a353e7802f1.png)
 ![Screenshot (165)](https://user-images.githubusercontent.com/92248907/179620128-e5d6f9c8-d743-41ef-93ff-a23430ae5daf.png)
@@ -14,14 +14,14 @@ this is movie review website it also have a bot which gives information about di
 ![Screenshot (171)](https://user-images.githubusercontent.com/92248907/179620177-56d4d4f6-53b7-420b-b9ab-76292bf6c46b.png)
 ![Screenshot (172)](https://user-images.githubusercontent.com/92248907/179620184-80404183-eada-40f1-9eba-e6a23fde410c.png)
 
-##Bot section = It is bot created with help microsoft azure
+## Bot section = It is bot created with help microsoft azure
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/92248907/179620472-8e6dc9ed-84db-4f5f-81b4-6ecf74fc2ff4.png)
 ![Screenshot (183)](https://user-images.githubusercontent.com/92248907/179620474-e46392c0-8a90-40d9-ae64-5a7f1e2bb8e7.png)
 ![Screenshot (184)](https://user-images.githubusercontent.com/92248907/179620479-31a400b3-3967-4384-b479-621173cd9596.png)
 ![Screenshot (185)](https://user-images.githubusercontent.com/92248907/179620485-5640b867-f3ed-42a5-a777-9eea8f030916.png)
 
-##Home section = It contain some movies with their description
+## Home section = It contain some movies with their description
 
 
 ![Screenshot (173)](ht![Screenshot (175)](https://user-images.githubusercontent.com/92248907/179620915-97ed57b3-907e-4877-9891-eab7eff5871f.png)
@@ -29,11 +29,11 @@ tps://user-images.githubusercontent.com/92248907/179620886-293a3908-b75e-431a-b2
 ![Screenshot (174)](https://user-images.githubusercontent.com/92248907/179620902-7f62b51f-e996-453f-8d96-79f0abc8f0f3.png)
 
 
-##Developer Section = It contain some developer information
+## Developer Section = It contain some developer information
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/92248907/179620943-938d9326-017f-4ee3-9aef-b38aa7790d10.png)
 
-##Movie and Popular Section 
+## Movie and Popular Section 
 ![Screenshot (177)](https://user-images.githubusercontent.com/92248907/179620950-a1a4cff8-3fb7-44f5-b2db-0e437251953f.png)
 ![Screenshot (178)](https://user-images.githubusercontent.com/92248907/179620958-8e4a5180-6443-43f4-8bb1-778d8ae6979b.png)
 ![Screenshot (179)](https://user-images.githubusercontent.com/92248907/179620966-f6b0a623-4a66-4159-be8e-9a7efe36348c.png)
